@@ -32,4 +32,4 @@ python manage.py runserver
 
 username : admin
 
-password : fingent123
+password : ajith123
