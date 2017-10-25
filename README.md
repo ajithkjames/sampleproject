@@ -19,7 +19,7 @@ git clone https://github.com/ajithkjames/sampleproject.git
 Install the requirements
 
 ```
-pip install -r requirements.py
+pip install -r requirements.txt
 ```
 
 And to run the project
